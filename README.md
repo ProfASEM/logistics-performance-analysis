@@ -15,6 +15,8 @@ The goal is to move beyond basic reporting and deliver **data-driven insights th
 
 ---
 
+ **Note:** The dataset used in this project is synthetically generated based on realistic logistics patterns to simulate operational challenges and support analytical exploration.
+
 ## 🎯 Objectives
 
 * Analyze delivery delays across multiple dimensions
@@ -32,6 +34,13 @@ The goal is to move beyond basic reporting and deliver **data-driven insights th
 * **Excel** – Initial data exploration
 
 ---
+
+## Project Files
+- `dashboard/logistics_dashboard.pbix` — Power BI dashboard
+- `notebooks/data_generation.ipynb` — data preparation
+- `notebooks/main_analysis` analysis
+- `datasets/` — project data
+- `images/` — dashboard screenshots
 
 ## 📊 Dashboard Structure
 
@@ -138,11 +147,10 @@ This model allows for a balanced evaluation of carriers based on both reliabilit
 
 ---
 
-## 👨‍💻 Author
-
-**Asem Haij**
-Data Analyst | Python • Power BI • SQL
-
+## Author
+**Asem Haij**  
+Data Analyst | Python • Power BI • SQL  
+[LinkedIn](asem-haij-9797562a8) | [GitHub](ProfAsem) | [Portfolio](asemhaij.com)
 ---
 
 ## ⭐ Notes
