@@ -150,7 +150,7 @@ This model allows for a balanced evaluation of carriers based on both reliabilit
 ## Author
 **Asem Haij**  
 Data Analyst | Python • Power BI • SQL  
-[LinkedIn](asem-haij-9797562a8) | [GitHub](ProfAsem) | [Portfolio](asemhaij.com)
+[LinkedIn](www.linkedin.com/in/asem-haij-9797562a8) | [GitHub](https://github.com/ProfASEM) | [Portfolio](https://asemhaij.com/)
 ---
 
 ## ⭐ Notes
